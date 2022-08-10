@@ -1,3 +1,3 @@
 # ansible_test
 
-Automating the coniguration of infrastructure in AWS and Azure
+Automating the configuration of infrastructure in AWS and Azure
